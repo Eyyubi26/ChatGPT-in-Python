@@ -1,4 +1,4 @@
-# ChatGPT-in-Python-
+# ChatGPT-in-Python
 
 How to setup "openai" library
 1- Open your terminal. (CMD, Powershell etc.)
