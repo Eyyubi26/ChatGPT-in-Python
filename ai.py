@@ -15,4 +15,4 @@ completion = openai.Completion.create(
 )
 
 response = completion.choices[0].text
-print(response)
+print("AI:"+response)
